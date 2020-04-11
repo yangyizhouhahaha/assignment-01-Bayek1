@@ -11,13 +11,13 @@
 - 在自己的github仓库上新建markdown格式纯文本文件附上asciinema的分享URL
 
 ## 实验过程 ##
-- lesson1：[https://asciinema.org/a/m2RgoLZ5446ZhQeR3R28WNf3T](https://asciinema.org/a/m2RgoLZ5446ZhQeR3R28WNf3T)
-- lesson2：[https://asciinema.org/a/6xkwh3nPaTGgGCEbuMfVcRYlp](https://asciinema.org/a/6xkwh3nPaTGgGCEbuMfVcRYlp)
-- lesson3：[https://asciinema.org/a/AY8GhaLHts7bV2zVd8piZ6Qx7](https://asciinema.org/a/AY8GhaLHts7bV2zVd8piZ6Qx7)
-- lesson4：[https://asciinema.org/a/CrOOUCiK0gPkY6gS2vG1CQ2s2](https://asciinema.org/a/CrOOUCiK0gPkY6gS2vG1CQ2s2)
-- lesson5：[https://asciinema.org/a/BTLO71bJGTkcxukCem65rB9O6](https://asciinema.org/a/BTLO71bJGTkcxukCem65rB9O6)
-- lesson6：[https://asciinema.org/a/LsC5v1m29rSmP5X43CGr5iujC](https://asciinema.org/a/LsC5v1m29rSmP5X43CGr5iujC)
-- lesson7：[https://asciinema.org/a/K45V72GwkTjfxdqIn4LqCBsyx](https://asciinema.org/a/K45V72GwkTjfxdqIn4LqCBsyx)
+- lesson1：[![asciicast](https://asciinema.org/a/m2RgoLZ5446ZhQeR3R28WNf3T.svg)](https://asciinema.org/a/m2RgoLZ5446ZhQeR3R28WNf3T)
+- lesson2：[![asciicast](https://asciinema.org/a/6xkwh3nPaTGgGCEbuMfVcRYlp.svg)](https://asciinema.org/a/6xkwh3nPaTGgGCEbuMfVcRYlp)
+- lesson3：[![asciicast](https://asciinema.org/a/AY8GhaLHts7bV2zVd8piZ6Qx7.svg)](https://asciinema.org/a/AY8GhaLHts7bV2zVd8piZ6Qx7)
+- lesson4：[![asciicast](https://asciinema.org/a/CrOOUCiK0gPkY6gS2vG1CQ2s2.svg)](https://asciinema.org/a/CrOOUCiK0gPkY6gS2vG1CQ2s2)
+- lesson5：[![asciicast](https://asciinema.org/a/BTLO71bJGTkcxukCem65rB9O6.svg)](https://asciinema.org/a/BTLO71bJGTkcxukCem65rB9O6)
+- lesson6：[![asciicast](https://asciinema.org/a/LsC5v1m29rSmP5X43CGr5iujC.svg)](https://asciinema.org/a/LsC5v1m29rSmP5X43CGr5iujC)
+- lesson7：[![asciicast](https://asciinema.org/a/K45V72GwkTjfxdqIn4LqCBsyx.svg)](https://asciinema.org/a/K45V72GwkTjfxdqIn4LqCBsyx)
 
 ## 实验总结 ##
 - 你了解vim有哪几种工作模式？
